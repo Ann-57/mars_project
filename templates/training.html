@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h4>Научные симуляторы</h4>
+{% if "инженер" in prof or "строитель" in prof %}
+        <div><img src ="...\static\img\first2.1.png"></div>
+ {% else %}
+       <div><img src ="...\static\img\second2.1.png"></div>
+ {% endif %}
+{% endblock %}

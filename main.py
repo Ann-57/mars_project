@@ -59,13 +59,13 @@ def bootstrap():
                     <div class="alert alert-primary" role="alert">
                       Человечество вырастает из детства
                     </div>
-                    <div class="alert alert-primary" role="alert">
+                    <div class="alert alert-dark" role="alert">
                       Человечеству мало одной планеты
                     </div>
                     <div class="alert alert-primary" role="alert">
                       Мы сделаем обитаемыми безжизненными пока планеты
                     </div>
-                    <div class="alert alert-primary" role="alert">
+                    <div class="alert alert-dark" role="alert">
                       И начнём с Марса!
                     </div>
                     <div class="alert alert-primary" role="alert">
@@ -180,13 +180,13 @@ def planet_choice(planet):
                         <div class="alert alert-primary" role="alert">
                           Эта планета близка к земле
                         </div>
-                        <div class="alert alert-primary" role="alert">
+                        <div class="alert alert-dark" role="alert">
                           На ней много необходимых ресурсов
                         </div>
                         <div class="alert alert-primary" role="alert">
                           На ней есть вода и атмосфера
                         </div>
-                        <div class="alert alert-primary" role="alert">
+                        <div class="alert alert-dark" role="alert">
                           На ней есть больше магнитное поле
                         </div>
                         <div class="alert alert-primary" role="alert">

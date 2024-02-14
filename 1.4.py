@@ -59,13 +59,13 @@ def bootstrap():
                     <div class="alert alert-primary" role="alert">
                       Человечество вырастает из детства
                     </div>
-                    <div class="alert alert-primary" role="alert">
+                    <div class="alert alert-dark" role="alert">
                       Человечеству мало одной планеты
                     </div>
                     <div class="alert alert-primary" role="alert">
                       Мы сделаем обитаемыми безжизненными пока планеты
                     </div>
-                    <div class="alert alert-primary" role="alert">
+                    <div class="alert alert-dark" role="alert">
                       И начнём с Марса!
                     </div>
                     <div class="alert alert-primary" role="alert">
